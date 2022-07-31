@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pedro-duk)
 
 - 👋 Hey, sou o Pedro Luiz da Costa Silva;
-- 👀 Estou interessado na criação de Bots e Machine Learning;
+- 👀 Estou interessado em desenvolvimento Backend e Ciência de Dados;
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web;
 - 📫 [Email](mailto:pedroldacs@gmail.com).
 
