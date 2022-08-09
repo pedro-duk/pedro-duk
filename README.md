@@ -7,7 +7,7 @@
 
 - 👋 Hey, sou o Pedro Luiz da Costa Silva;
 - 👀 Estou interessado em desenvolvimento Backend e Ciência de Dados;
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web;
+- 🌱 Atualmente estou fazendo um curso de Introdução em Ciência de Dados da Udacity;
 - 📫 [Email](mailto:pedroldacs@gmail.com).
 
 Linguagens e ferramentas:
