@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pedro-duk)
 
 - 👋 Hey, sou o Pedro Luiz da Costa Silva;
-- 👀 Estou interessado em desenvolvimento Backend e Ciência de Dados;
+- 👀 Estou interessado em desenvolvimento Fullstack e Ciência de Dados;
 - 📫 [Email](mailto:pedroldacs@gmail.com).
 
 Linguagens e ferramentas:
