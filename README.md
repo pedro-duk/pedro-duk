@@ -7,7 +7,7 @@
 
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Fullstack Development, AWS and Data Science;
-- 📫 [Email](mailto:pedroldacs@gmail.com).
+- 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 Languages and technologies
 * Javascript
