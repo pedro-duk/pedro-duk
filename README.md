@@ -1,9 +1,9 @@
 ## 🦆 Quack 
-<a href="www.linkedin.com/in/pedroduk">
+<a href="https://www.linkedin.com/in/pedroduk">
   <img align="left" alt="LinkedIN - pedro-duk" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?usernamepedro-duk&label=Visitors)
+![](https://komarev.com/ghpvc/?username=pedro-duk&label=Visitors)
 
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Fullstack Development, AWS and Data Science;
