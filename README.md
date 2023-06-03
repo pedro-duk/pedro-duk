@@ -1,5 +1,5 @@
 ## 🦆 Quack 
-<a href="www.linkedin.com/in/pedro-luiz97">
+<a href="www.linkedin.com/in/pedroduk">
   <img align="left" alt="LinkedIN - pedro-duk" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
