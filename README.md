@@ -3,7 +3,7 @@
   <img align="left" alt="LinkedIN - pedro-duk" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pedro-duk)
+![](https://komarev.com/ghpvc/?usernamepedro-duk&label=Visitors)
 
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Fullstack Development, AWS and Data Science;
