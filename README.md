@@ -1,7 +1,4 @@
 ## 🦆 Quackin' away into the sunset
-<a href="https://www.linkedin.com/in/pedroduk">
-  <img align="left" alt="LinkedIN - pedro-duk" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://komarev.com/ghpvc/?username=pedro-duk&label=Visitors)
 
@@ -10,8 +7,9 @@
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 Languages and technologies
-* Javascript
-* Node.js
+* Typescript
+* Nest.js
+* MongoDB
 * C++
 * Python
 
