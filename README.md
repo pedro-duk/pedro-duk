@@ -8,14 +8,22 @@ Graduation
 * Bachelor's Degree in Computer Science - Universidade Federal do Mato Grosso do Sul
 
 Languages and technologies
-* Typescript
-* Nest.js
-* MongoDB
-* C++
-* Python
+* Very proficient
+  * Javascript/Typescript
+  * Nest.JS
+  * MongoDB
+  * PostgreSQL
+  * Docker/Kubernetes
+ 
+* Proficient
+  * MySQL
+  * Python/Django
+  * .NET 8 
 
-Some projects
-* [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot for server management with fun capabilities;
+Some of my repositories
+* [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
+* [Simple NestJS API](https://github.com/pedro-duk/simple-nestjs-api): Quick reference when developing a Nest.JS API;
+* [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api): Quick references on different design patterns;
 
 Certifications
 * AWS Certified Cloud Practicioner
