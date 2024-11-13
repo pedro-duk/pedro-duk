@@ -1,5 +1,3 @@
-## 🦆 Quackin' away into the sunset
-
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Backend Development, Data Science and Cloud Computing in AWS;
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
@@ -13,6 +11,9 @@ Languages and technologies
 * MongoDB
 * C++
 * Python
+
+Some projects
+* [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot for server management with fun capabilities;
 
 Certifications
 * AWS Certified Cloud Practicioner
