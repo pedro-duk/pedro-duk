@@ -5,7 +5,7 @@
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 **Graduation**
-* Bachelor's Degree in Computer Science - Universidade Federal do Mato Grosso do Sul
+* Bachelor's Degree in Computer Science - Universidade Federal de Mato Grosso do Sul
 
 **Languages and technologies**
 * *Very proficient*
