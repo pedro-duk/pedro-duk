@@ -34,15 +34,18 @@
 
 ### For reference
 * WepAPIs references:
-  * [Simple NestJS API](https://github.com/pedro-duk/simple-nestjs-api);
-  * [Simple .NET API](https://github.com/pedro-duk/simple-dotnet-api);
+  * [Reference NestJS API](https://github.com/pedro-duk/reference-nestjs-api);
+  * [Reference .NET API](https://github.com/pedro-duk/reference-dotnet-api);
 
 * Design pattern references:
   * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
 
 ### For Graduation or Research
-* [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): An implementation in C of Lee's Algorithm using parallelization with OpenMP;
+* [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): Implementation in C of Lee's Algorithm using parallelization with OpenMP;
+* [Huffman Compresser](https://github.com/pedro-duk/Huffman-Compresser): Implementation in C++ of a compresser based on the Huffman's Algorithm;
+* [Selenium Webcrawler](https://github.com/pedro-duk/Selenium-Web-Crawler): A WebCrawler for downloading decisions made by Brazil's Supreme Court;
+* [Xpp Compiler](https://github.com/pedro-duk/Xpp-Compiler): Implementation of a compiler of a fictional programming language similar to C++;
     
 ### For fun!
 * [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
