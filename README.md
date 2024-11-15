@@ -27,6 +27,9 @@
   * .NET 8 
 
 ## Some of my repositories
+
+
+
 ### For reference
 * WepAPIs references:
   * [Simple NestJS API](https://github.com/pedro-duk/simple-nestjs-api);
@@ -35,6 +38,9 @@
 * Design pattern references:
   * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
+
+### For Graduation or Research
+* [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm);
     
 ### For fun!
 * [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
