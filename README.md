@@ -7,6 +7,10 @@
 **Graduation**
 * Bachelor's Degree in Computer Science - Universidade Federal de Mato Grosso do Sul
 
+**Certifications**
+* AWS Certified Cloud Practicioner
+* AWS Certified AI Practicioner
+
 **Languages and technologies**
 * *Very proficient*
   * Javascript/Typescript
@@ -21,11 +25,17 @@
   * Python/Django
   * .NET 8 
 
-**Some of my repositories**
-* [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
-* [Simple NestJS API](https://github.com/pedro-duk/simple-nestjs-api): Quick reference when developing a Nest.JS API;
-* [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api): Quick references on different design patterns;
+## Some of my repositories
+### For reference
+* WepAPIs references:
+  * [Simple NestJS API](https://github.com/pedro-duk/simple-nestjs-api);
+  * [Simple .NET API](https://github.com/pedro-duk/simple-dotnet-api);
 
-**Certifications**
-* AWS Certified Cloud Practicioner
-* AWS Certified AI Practicioner
+* Design pattern references:
+  * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
+  * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
+    
+### For fun!
+* [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
+
+
