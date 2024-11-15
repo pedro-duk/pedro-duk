@@ -24,7 +24,9 @@
 * *Proficient*
   * MySQL
   * Python/Django
-  * .NET 8 
+  * .NET 8 and C#
+  * Java
+  * C/C++
 
 ## Some of my repositories
 
@@ -40,7 +42,7 @@
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
 
 ### For Graduation or Research
-* [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm);
+* [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): An implementation in C of Lee's Algorithm using parallelization with OpenMP;
     
 ### For fun!
 * [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
