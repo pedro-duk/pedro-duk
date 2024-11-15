@@ -1,7 +1,8 @@
-## 🦆 Quackin' away into the sunset
+## 🦆 I’m all it’s quacked up to be.
 
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Backend Development, Data Science and Cloud Computing in AWS;
+- 👨‍💼 [Access my LinkedIn](https://www.linkedin.com/in/pedroduk/);
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 **Graduation**
