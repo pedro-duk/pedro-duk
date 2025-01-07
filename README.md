@@ -12,7 +12,7 @@
 * AWS Certified Cloud Practicioner
 * AWS Certified AI Practicioner
 
-**Languages and technologies**
+**Proficient technologies**
 * Backend Development with Node.JS and Nest.JS
 * .NET 8 and C#
 * Python + Django
