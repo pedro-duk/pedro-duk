@@ -13,24 +13,15 @@
 * AWS Certified AI Practicioner
 
 **Languages and technologies**
-* *Very proficient*
-  * Javascript/Typescript
-  * Node.JS
-  * MongoDB
-  * Nest.JS
-  * PostgreSQL
-  * Docker/Kubernetes
- 
-* *Proficient*
-  * MySQL
-  * Python/Django
-  * .NET 8 and C#
-  * Java
-  * C/C++
+* Backend Development with Node.JS and Nest.JS
+* .NET 8 and C#
+* Python + Django
+* Java + SpringBoot
+* MongoDB
+* PostgreSQL and MySQL
+* Docker/Kubernetes
 
 ## Some of my repositories
-
-
 
 ### For reference
 * WepAPIs references:
