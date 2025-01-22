@@ -38,7 +38,7 @@
 * [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): Implementation in C of Lee's Algorithm using parallelization with OpenMP;
 * [Huffman Compresser](https://github.com/pedro-duk/Huffman-Compresser): Implementation in C++ of a compresser based on the Huffman's Algorithm;
 * [Selenium Webcrawler](https://github.com/pedro-duk/Selenium-Web-Crawler): A WebCrawler for downloading decisions made by Brazil's Supreme Court;
-* [Xpp Compiler](https://github.com/pedro-duk/Xpp-Compiler): Implementation of a compiler of a fictional programming language similar to C++;
+* [Xpp Compiler](https://github.com/pedro-duk/Xpp-Compiler): Implementation of a compiler for the X++ language.
     
 ### For fun!
 * [DukBot](https://github.com/pedro-duk/duk-bot): A Discord Bot made in Node.JS for server management with fun capabilities;
