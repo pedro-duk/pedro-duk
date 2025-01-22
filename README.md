@@ -15,15 +15,14 @@
 **Proficient technologies**
 * Backend Development with Node.JS and Nest.JS
 * .NET 8 and C#
-* Python + Django
-* Java + SpringBoot
+* Python for Data Science
 * MongoDB
 * PostgreSQL and MySQL
 * Docker/Kubernetes
 
 ## Some of my repositories
 
-### For reference
+### Backend
 * WepAPIs references:
   * [Reference NestJS API](https://github.com/pedro-duk/reference-nestjs-api);
   * [Reference .NET API](https://github.com/pedro-duk/reference-dotnet-api);
@@ -31,6 +30,9 @@
 * Design pattern references:
   * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
+
+### Frontend
+* [VueJS Core Concepts](https://github.com/pedro-duk/vue-js-monster-slayer);
 
 ### For Graduation or Research
 * [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): Implementation in C of Lee's Algorithm using parallelization with OpenMP;
