@@ -30,6 +30,9 @@
 * Design pattern references:
   * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
+ 
+### Data Science
+* [Capstone Projects](https://github.com/pedro-duk/data-science-capstone-projects);
 
 ### Frontend
 * [VueJS Core Concepts](https://github.com/pedro-duk/vue-js-monster-slayer);
