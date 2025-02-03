@@ -25,17 +25,18 @@
 ### Backend
 * WepAPIs references:
   * [Reference NestJS API](https://github.com/pedro-duk/reference-nestjs-api);
-  * [Reference .NET API](https://github.com/pedro-duk/reference-dotnet-api);
+  * [Reference .NET API](https://github.com/pedro-duk/reference-dotnet-api).
 
 * Design pattern references:
   * [Builder Pattern API](https://github.com/pedro-duk/builder-pattern-api);
-  * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api);
+  * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api).
  
 ### Data Science
 * [Capstone Projects](https://github.com/pedro-duk/data-science-capstone-projects);
+* [References, Tips and Tricks](https://github.com/pedro-duk/data-science-references-and-tips).
 
 ### Frontend
-* [VueJS Core Concepts](https://github.com/pedro-duk/vue-js-monster-slayer);
+* [VueJS Core Concepts](https://github.com/pedro-duk/vue-js-monster-slayer).
 
 ### For Graduation or Research
 * [Parallel Lee Algorithm](https://github.com/pedro-duk/Parallel-Lee-Algorithm): Implementation in C of Lee's Algorithm using parallelization with OpenMP;
