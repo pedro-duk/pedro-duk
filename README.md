@@ -3,7 +3,7 @@
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Backend Development, Data Science and Cloud Computing in AWS;
 - 👨‍💼 [Access my LinkedIn](https://www.linkedin.com/in/pedroduk/);
-- 👨‍💼 [Access my LinkedIn](https://www.linkedin.com/in/pedroduk/);
+- 📊 [Access my Kaggle Profile](https://www.kaggle.com/pedrolouis);
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 **Graduation**
