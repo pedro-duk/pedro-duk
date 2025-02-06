@@ -3,6 +3,7 @@
 - 👋 Hello, my name is Pedro Luiz da Costa Silva;
 - 👀 I'm interested in Backend Development, Data Science and Cloud Computing in AWS;
 - 👨‍💼 [Access my LinkedIn](https://www.linkedin.com/in/pedroduk/);
+- 👨‍💼 [Access my LinkedIn](https://www.linkedin.com/in/pedroduk/);
 - 📫 [Send me an email](mailto:pedroldacs@gmail.com).
 
 **Graduation**
@@ -15,12 +16,12 @@
 **Proficient technologies**
 * Backend Development with Node.JS and Nest.JS
 * .NET 8 and C#
-* Python for Data Science
+* Python, Pandas and Seaborn for Data Science
 * MongoDB
 * PostgreSQL and MySQL
 * Docker/Kubernetes
 
-## Some of my repositories
+## Some of my GitHub Repositories
 
 ### Backend
 * WepAPIs references:
@@ -32,8 +33,9 @@
   * [Factory Pattern API](https://github.com/pedro-duk/factory-pattern-api).
  
 ### Data Science
-* [Capstone Projects](https://github.com/pedro-duk/data-science-capstone-projects);
-* [References, Tips and Tricks](https://github.com/pedro-duk/data-science-references-and-tips).
+* [Projects and Studies Collection](https://github.com/pedro-duk/data-science-projects);
+* [References, Tips and Tricks](https://github.com/pedro-duk/data-science-references-and-tips);
+* [Course Capstone Projects](https://github.com/pedro-duk/data-science-capstone-projects);
 
 ### Frontend
 * [VueJS Core Concepts](https://github.com/pedro-duk/vue-js-monster-slayer).
